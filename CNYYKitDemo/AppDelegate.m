@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "WBStatusTimelineViewController.h"
 
 @interface AppDelegate ()
 
